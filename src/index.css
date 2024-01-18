@@ -1,0 +1,17 @@
+:root{
+    --background:#100E1D;
+    --text-color-light:#E7E7EB;
+    --text-color:#A09FB1;
+    --bg-container: #1E213A;
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: var(--background);
+    color:var(--text-color);
+}
